@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Prompt Engineer and AI Prototype Specialist. 
+I am a Prompt Engineer and AI Prototype Specialist.
  
 My professional foundation includes over five years of success in IT Recruitment, which has provided me with comprehensive domain knowledge of the technology landscape. 
 
