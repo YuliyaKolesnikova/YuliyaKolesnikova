@@ -12,4 +12,4 @@ This cross-functional expertise enables me to develop AI solutions that align wi
 - **Email:** yuliyakolesnikova@hotmail.com
 - **Telegram:** https://t.me/u_jumay
 --
-*I look forward to connecting with you.*
+*Open to professional connections.*
