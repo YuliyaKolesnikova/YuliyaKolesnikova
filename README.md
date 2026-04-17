@@ -6,7 +6,7 @@ I help students understand and use complex technologies as accessible tools for 
 
 My goal is to equip students with future-ready skills by combining technical knowledge with critical thinking and creativity.
 
-###Interests: Art therapy, English language development
+## Interests: Art therapy, English language development
 
 ---
 ## Contact
