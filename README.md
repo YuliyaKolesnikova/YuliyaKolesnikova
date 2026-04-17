@@ -1,11 +1,12 @@
 ### Hi there 👋
-I am a Prompt Engineer and AI Prototype Specialist.
 
-My professional foundation includes over five years of success in IT Recruitment, which has provided me with comprehensive domain knowledge of the technology landscape. 
+I am a teacher specializing in working with teenagers in the field of neural networks and AI.
 
-This cross-functional expertise enables me to develop AI solutions that align with industry demands and user expectations.
+I help students understand and use complex technologies as accessible tools for learning and creativity. I guide them through project-based learning using prompt engineering, gamification, and the development of digital literacy.
 
-**Interests:** Art therapy and English language development 
+My goal is to equip students with future-ready skills by combining technical knowledge with critical thinking and creativity.
+
+Interests: Art therapy, English language development
 
 ---
 ## Contact
