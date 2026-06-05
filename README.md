@@ -1,13 +1,13 @@
-### Hi there 👋
+**Hi there 👋**"
 
-I am a teacher specializing in working with teenagers in the field of neural networks and AI.
+I am the Founder & Author of ShvydkoPereklad, a web-based translation platform focused on fast, accessible, and user-friendly language translation.
 
-I help students understand and use complex technologies as accessible tools for learning and creativity. I guide them through project-based learning using prompt engineering, gamification, and the development of digital literacy.
+I design and develop the platform's architecture and user experience, implement translation workflows and language-processing features, and maintain the project's source code, documentation, and deployment pipeline. I continuously improve performance, usability, and accessibility while managing the public website and ongoing feature development.
 
-My goal is to equip students with future-ready skills by combining technical knowledge with critical thinking and creativity.
+My goal is to make language translation simple and accessible for everyone by combining clean design with practical, user-focused functionality.
 
-**Interests:** Art therapy, English language development
-
+**Interests:** 
+Web development, language technologies, user experience design
 ---
 ## Contact
 - **Email:** yuliyakolesnikova@hotmail.com
