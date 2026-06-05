@@ -6,7 +6,7 @@ I design and develop the platform's architecture and user experience, implement 
 
 My goal is to make language translation simple and accessible for everyone by combining clean design with practical, user-focused functionality.
 
-**Interests:** 
+*Interests:**
 Web development, language technologies, user experience design
 ---
 ## Contact
