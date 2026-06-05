@@ -1,4 +1,4 @@
-**Hi there 👋**"
+**Hi there 👋**
 
 I am the Founder & Author of ShvydkoPereklad, a web-based translation platform focused on fast, accessible, and user-friendly language translation.
 
