@@ -1,7 +1,7 @@
 **Hi there 👋**
 
 I am the Founder & Author of [ShvydkoPereklad](https://ShvydkoPereklad.github.io), a web-based translation platform focused on fast, accessible, and user-friendly language translation.
-
+  
 I design and develop the platform's architecture and user experience, implement translation workflows and language-processing features, and maintain the project's source code, documentation, and deployment pipeline. I continuously improve performance, usability, and accessibility while managing the public website and ongoing feature development.
 
 My goal is to make language translation simple and accessible for everyone by combining clean design with practical, user-focused functionality.
